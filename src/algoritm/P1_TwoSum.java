@@ -34,10 +34,4 @@ public class P1_TwoSum {
         }
         throw new IllegalArgumentException("No two sum solution");
     }
-    
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 }
