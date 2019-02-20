@@ -34,4 +34,5 @@ public class P1_TwoSum {
         }
         throw new IllegalArgumentException("No two sum solution");
     }
+    
 }
